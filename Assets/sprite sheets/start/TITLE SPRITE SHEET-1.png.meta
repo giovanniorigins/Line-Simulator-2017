@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: 9a71a2acb350246b0a4e72914f3ae041
+timeCreated: 1489595941
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TITLE SPRITE SHEET-1_0
+    21300002: TITLE SPRITE SHEET-1_1
+    21300004: TITLE SPRITE SHEET-1_2
+    21300006: TITLE SPRITE SHEET-1_3
+    21300008: TITLE SPRITE SHEET-1_4
+    21300010: TITLE SPRITE SHEET-1_5
+    21300012: TITLE SPRITE SHEET-1_6
+    21300014: TITLE SPRITE SHEET-1_7
+    21300016: TITLE SPRITE SHEET-1_8
+    21300018: TITLE SPRITE SHEET-1_9
+    21300020: TITLE SPRITE SHEET-1_10
+    21300022: TITLE SPRITE SHEET-1_11
+    21300024: TITLE SPRITE SHEET-1_12
+    21300026: TITLE SPRITE SHEET-1_13
+    21300028: TITLE SPRITE SHEET-1_14
+    21300030: TITLE SPRITE SHEET-1_15
+    21300032: TITLE SPRITE SHEET-1_16
+    21300034: TITLE SPRITE SHEET-1_17
+    21300036: TITLE SPRITE SHEET-1_18
+    21300038: TITLE SPRITE SHEET-1_19
+    21300040: TITLE SPRITE SHEET-1_20
+    21300042: TITLE SPRITE SHEET-1_21
+    21300044: TITLE SPRITE SHEET-1_22
+    21300046: TITLE SPRITE SHEET-1_23
+    21300048: TITLE SPRITE SHEET-1_24
+    21300050: TITLE SPRITE SHEET-1_25
+    21300052: TITLE SPRITE SHEET-1_26
+    21300054: TITLE SPRITE SHEET-1_27
+    21300056: TITLE SPRITE SHEET-1_28
+    21300058: TITLE SPRITE SHEET-1_29
+    21300060: TITLE SPRITE SHEET-1_30
+    21300062: TITLE SPRITE SHEET-1_31
+    21300064: TITLE SPRITE SHEET-1_32
+    21300066: TITLE SPRITE SHEET-1_33
+    21300068: TITLE SPRITE SHEET-1_34
+    21300070: TITLE SPRITE SHEET-1_35
+    21300072: TITLE SPRITE SHEET-1_36
+    21300074: TITLE SPRITE SHEET-1_37
+    21300076: TITLE SPRITE SHEET-1_38
+    21300078: TITLE SPRITE SHEET-1_39
+    21300080: TITLE SPRITE SHEET-1_40
+    21300082: TITLE SPRITE SHEET-1_41
+    21300084: TITLE SPRITE SHEET-1_42
+    21300086: TITLE SPRITE SHEET-1_43
+    21300088: TITLE SPRITE SHEET-1_44
+    21300090: TITLE SPRITE SHEET-1_45
+    21300092: TITLE SPRITE SHEET-1_46
+    21300094: TITLE SPRITE SHEET-1_47
+    21300096: TITLE SPRITE SHEET-1_48
+    21300098: TITLE SPRITE SHEET-1_49
+    21300100: TITLE SPRITE SHEET-1_50
+    21300102: TITLE SPRITE SHEET-1_51
+    21300104: TITLE SPRITE SHEET-1_52
+    21300106: TITLE SPRITE SHEET-1_53
+    21300108: TITLE SPRITE SHEET-1_54
+    21300110: TITLE SPRITE SHEET-1_55
+    21300112: TITLE SPRITE SHEET-1_56
+    21300114: TITLE SPRITE SHEET-1_57
+    21300116: TITLE SPRITE SHEET-1_58
+    21300118: TITLE SPRITE SHEET-1_59
+    21300120: TITLE SPRITE SHEET-1_60
+    21300122: TITLE SPRITE SHEET-1_61
+    21300124: TITLE SPRITE SHEET-1_62
+    21300126: TITLE SPRITE SHEET-1_63
+    21300128: TITLE SPRITE SHEET-1_64
+    21300130: TITLE SPRITE SHEET-1_65
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3966
+        width: 476
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3966
+        width: 477
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_2
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3966
+        width: 478
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_3
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 3966
+        width: 479
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_4
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3966
+        width: 480
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_5
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 3966
+        width: 483
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_6
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3966
+        width: 486
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3666
+        width: 488
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3666
+        width: 490
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_9
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3666
+        width: 494
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_10
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3666
+        width: 496
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_11
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3668
+        width: 500
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_12
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3670
+        width: 492
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_13
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 3670
+        width: 494
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3372
+        width: 492
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3374
+        width: 488
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_16
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3376
+        width: 484
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_17
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3376
+        width: 480
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_18
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3376
+        width: 478
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_19
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3374
+        width: 478
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_20
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3374
+        width: 480
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3070
+        width: 482
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3070
+        width: 478
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_23
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 3070
+        width: 474
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_24
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3066
+        width: 480
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_25
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3066
+        width: 474
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_26
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 3066
+        width: 470
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_27
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 3066
+        width: 466
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2766
+        width: 462
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_29
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2766
+        width: 458
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_30
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2766
+        width: 454
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_31
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2766
+        width: 452
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_32
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2766
+        width: 448
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_33
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2766
+        width: 446
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_34
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2766
+        width: 444
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2466
+        width: 444
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2466
+        width: 446
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_37
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2466
+        width: 450
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_38
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2466
+        width: 454
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_39
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2466
+        width: 460
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_40
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 2470
+        width: 456
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_41
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2470
+        width: 462
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2170
+        width: 468
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_43
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2172
+        width: 468
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_44
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2174
+        width: 468
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_45
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2176
+        width: 470
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_46
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2176
+        width: 472
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_47
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 2174
+        width: 478
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_48
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2170
+        width: 490
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1870
+        width: 490
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1868
+        width: 502
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_51
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1868
+        width: 502
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_52
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1868
+        width: 502
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_53
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1868
+        width: 502
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_54
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1868
+        width: 502
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_55
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1868
+        width: 500
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1566
+        width: 498
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1566
+        width: 494
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_58
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1566
+        width: 492
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_59
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1566
+        width: 489
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_60
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1566
+        width: 486
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_61
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1566
+        width: 482
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_62
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1566
+        width: 482
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1266
+        width: 480
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1270
+        width: 474
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TITLE SPRITE SHEET-1_65
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1270
+        width: 474
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

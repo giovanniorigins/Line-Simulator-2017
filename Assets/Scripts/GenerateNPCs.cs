@@ -39,8 +39,15 @@ public class GenerateNPCs : MonoBehaviour {
 	
 	// Update is called once per frame
 	public void Update () {
-
+		//Debug.Log (line.First.Value.gameObject.name);
+		//Debug.Log (line.First.Value.gameObject.activeSelf);
+		//Debug.Log(line.Count + " <-> " + maxLineCharacters);
 		// if the line has shortened since last update, add another NPC
+		if (!line.First.Value.gameObject.activeSelf) {
+			line.RemoveFirst ();
+			line.AddLast (SpawnLineCharacter ());
+		}
+
 		if (line.Count < maxLineCharacters) {
 			// To keep track of the characters as they are removed, we need to shift the array left
 
